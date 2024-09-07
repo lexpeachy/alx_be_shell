@@ -1,3 +1,2 @@
-total 1
--rw-r--r-- 1 Admin 197121  0 Sep  7 03:26 1-who_am_i
--rwxr-xr-x 1 Admin 197121 34 Sep  7 02:44 README.md*
+#!/bin/bash
+whoami
